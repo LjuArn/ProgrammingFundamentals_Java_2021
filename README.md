@@ -2,3 +2,7 @@
 Programming Fundamentals - January 2021 Soft Uni
 
 [1.1 Basic Syntax, Conditional Statements and Loops - Lab](/BasicSyntaxConditionalStatementsLoopsLab)
+
+[1.2 Basic Syntax, Conditional Statements and Loops - Ex](/)
+
+[1.3 Basic Syntax, Conditional Statements and Loops - MoreEx](/)
