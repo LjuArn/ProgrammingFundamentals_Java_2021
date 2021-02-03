@@ -9,6 +9,6 @@ Programming Fundamentals - January 2021 Soft Uni
 
 [2.1 Data Types and Variables - Lab](/)
 
-[2.2 Data Types and Variables - Exercise]()/
+[2.2 Data Types and Variables - Exercise](/)
 
 [2.3 Data Types and Variables - More Exercise](/)
