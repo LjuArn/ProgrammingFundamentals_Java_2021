@@ -7,7 +7,7 @@ Programming Fundamentals - January 2021 Soft Uni
 
 [1.3 Basic Syntax, Conditional Statements and Loops - MoreEx](/BasicSyntaxConditionalStatementsLoopsMoreEx/)
 
-[2.1 Data Types and Variables - Lab](/)
+[2.1 Data Types and Variables - Lab](/DataTypesAndVariablesLab)
 
 [2.2 Data Types and Variables - Exercise](/)
 
