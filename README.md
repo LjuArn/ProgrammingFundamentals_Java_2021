@@ -13,7 +13,7 @@ Programming Fundamentals - January 2021 Soft Uni
 
 [2.3 Data Types and Variables - More Exercise](/DataTypesAndVariablesMoreEx)
 
-[3.1. Arrays - Lab](/)
+[3.1. Arrays - Lab](/ArraysLab)
 
 [3.2. Arrays - Exercise](/)
 
