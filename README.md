@@ -17,7 +17,7 @@ Programming Fundamentals - January 2021 Soft Uni
 
 [3.2. Arrays - Exercise](/ArraysEx)
 
-[3.3. Arrays - More Exercise](/)
+[3.3. Arrays - More Exercise](/ArraysMoreEx)
 
 [4.1. Methods - Lab](/)
 
